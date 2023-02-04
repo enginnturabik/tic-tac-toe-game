@@ -83,7 +83,7 @@ int main()
 
         //draw
 
-        //In here last part of it which is draw part, we check all elements of array filled or not and also nobody win the game
+        //In here last part of it which is draw part, we check all elements of array filled or not and also nobody won the game
         bool all_elements_valid = true;
 
         for (int i = 0; i < 9; i++)
